@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Q版贪吃蛇</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="mode_ready">Snake\nTouch To Play</string>
+    <string name="mode_pause">Paused\nTouch To Resume</string>
+    <string name="mode_lose_prefix">Game Over\nScore: </string>
+    <string name="mode_lose_suffix">\nTouch To Play</string>
+
+    <string name="snake_layout_text_text"></string>
+
+</resources>
